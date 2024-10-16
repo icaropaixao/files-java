@@ -77,6 +77,6 @@ public class Program {
             System.out.println("Erro ao ler o arquivo: " + erro.getMessage()); // Tratamento de erro para leitura do arquivo
         }
 
-        sc.close(); // Fechando o Scanner
+        sc.close();
     }
 }
